@@ -21,9 +21,9 @@ Prerequisite Knowledge
 the topics are related and covered
 asp.net core web api authentication jwt 
 asp.net core api jwt authentication
-asp.net core 77 jwt authentication
+asp.net core 7 jwt authentication
 asp.net core web api jwt authentication
-.net 77 jwt authentication
+.net 7 jwt authentication
 c# create jwt
 deserialize jwt token c#
 jwt token c# .net core
