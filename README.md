@@ -7,7 +7,7 @@ asp.net core 7 jwt authentication
 <!-- /wp:list -->
 
 <!-- wp:quote {"align":"right","className":"is-style-default"} -->
-<blockquote class="wp-block-quote has-text-align-right is-style-default"><p>Microsoft.AspNetCore.Authentication.JwtBearer&nbsp;&nbsp;&nbsp;&nbsp; Version <strong>6.0.11</strong>
+<blockquote class="wp-block-quote has-text-align-right is-style-default"><p>Microsoft.AspNetCore.Authentication.JwtBearer&nbsp;&nbsp;&nbsp;&nbsp; Version <strong>7.0.14</strong>
 <!-- /wp:quote -->
 
 <!-- wp:block {"ref":1393} /-->
